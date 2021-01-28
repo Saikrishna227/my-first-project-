@@ -4,5 +4,5 @@ for i in range(10):
     else:
         print(i)
 for i in range(10):
-    print("browser update")
+    print("sargga sadavara pooka")
         
