@@ -3,5 +3,5 @@ for i in range(10):
         print("it is 3")
     else:
         print(i)
-for i 
+for i in
         
